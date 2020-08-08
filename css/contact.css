@@ -1,0 +1,117 @@
+.topnav{
+    height:40px;
+    background:black;
+  
+  }
+  
+  .navbtn{
+  color:white;
+  border:none;
+  background:transparent;
+  height: 100%;
+  font-size: 20px;
+  font-family: 'lobster', cursive;
+  padding-right: 30px;
+  padding-left: 30px;
+  letter-spacing:2px;
+  outline: none;
+  transition:all, 0.5s;
+  }
+  
+  #selected{
+  color:black;
+  border:none;
+  background:yellow;
+  height: 100%;
+  font-size: 20px;
+  font-family: 'lobster', cursive;
+  padding-right: 30px;
+  padding-left: 30px;
+  letter-spacing:2px;
+  outline: none;
+  }
+  
+  .navbtn:hover {
+  background-color:yellow;
+  color: black;
+  
+  }
+  
+  .fa {
+  text-decoration: none;
+  color:white;
+   height:100%;
+  
+  }
+  
+  .navright{
+  float:right;
+  height:100%;
+  
+  }
+  
+  
+  .fa:hover {
+  color:yellow;
+  
+  
+  }
+  
+  .fa-instagram{
+  padding-top:10px;
+  padding-left:15px;
+  padding-right:15px;
+  }
+  
+  
+  .fa-google{
+  padding-top:10px;
+  padding-left:15px;
+  padding-right:15px;
+  }
+  .fa-pinterest{
+  padding-top:10px;
+  padding-left:15px;
+  padding-right:15px;
+  }
+  .fa-facebook{
+  padding-top:10px;
+  padding-left:15px;
+  padding-right:15px;
+  }
+  .fa-twitter{
+  padding-top:10px;
+  padding-left:15px;
+  padding-right:15px;
+  }
+
+  body{
+      margin:0;
+      background-image:url("https://www.elsetge.cat/myimg/f/10-103774_minimalist-light-bulb-wallpapers-in-hd-4k-and.jpg");
+      background-size:cover;
+      background-position: center;
+
+     
+  }
+
+  #footer{
+      text-align: center;
+      color:white;
+      font-size:20px;
+      margin-top:150px;
+      
+  }
+
+  #foothead{
+      border-bottom: yellow solid 2px;
+      width:550px;
+      margin-left:32%;
+      font-size: 50px;
+      font-family:'Pacifico', cursive;
+  }
+
+  #copyright{
+      color:  white;
+      font-family: normal;
+  }
+

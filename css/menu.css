@@ -1,0 +1,181 @@
+.topnav{
+  height:30px;
+  /* background:black; */
+  position:fixed;
+}
+
+.navbtn{
+color:white;
+border:none;
+background:transparent;
+height: 100%;
+font-size: 20px;
+font-family: 'lobster', cursive;
+padding-right: 30px;
+padding-left: 30px;
+letter-spacing:2px;
+outline: none;
+transition:all, 0.5s;
+}
+
+#selected{
+color:black;
+border:none;
+background:yellow;
+height: 100%;
+font-size: 20px;
+font-family: 'lobster', cursive;
+padding-right: 30px;
+padding-left: 30px;
+letter-spacing:2px;
+outline: none;
+}
+
+.navbtn:hover {
+background-color:yellow;
+color:black;
+
+}
+
+.fa {
+text-decoration: none;
+color:black;
+ height:100%;
+
+}
+
+.navright{
+float:right;
+height:100%;
+
+}
+
+
+.fa:hover {
+color:white;
+
+
+}
+
+.fa-instagram{
+padding-top:10px;
+padding-left:15px;
+padding-right:15px;
+}
+
+
+.fa-google{
+padding-top:10px;
+padding-left:15px;
+padding-right:15px;
+}
+.fa-pinterest{
+padding-top:10px;
+padding-left:15px;
+padding-right:15px;
+}
+.fa-facebook{
+padding-top:10px;
+padding-left:15px;
+padding-right:15px;
+}
+.fa-twitter{
+padding-top:10px;
+padding-left:15px;
+padding-right:15px;
+}
+
+body{
+  margin:0;
+  background-color:grey;
+  color:white;
+  font-family: 'Pacifico', cursive;
+}
+
+img{
+  width:300px;
+  height:300px;
+  border-radius:200px;
+  margin-left:45px;
+  border:3px solid yellow;
+  opacity:0.5;
+}
+img:hover{
+  opacity:1.0;
+}
+.imgspace{
+  margin-top:70px;
+}
+
+h1{
+  text-align: center;
+  color:white;
+  font-family: 'lobster', cursive;
+  font-size: 50px;
+  border-bottom: 2px solid yellow;
+  letter-spacing: 5px;
+}
+
+p span{
+margin-left: 130px;
+font-size: 40px;
+letter-spacing: 2px;
+border-bottom: 2px yellow solid;
+
+}
+p{
+  margin:0;
+}
+.end{
+  padding-bottom:20px;
+}
+
+#starter{
+  margin-left:220px;
+}
+#south{
+  margin-left:150px;
+}
+#paav{
+  margin-left:130px;
+}
+ 
+#pizza{
+  margin-left:150px;
+}
+#salad{
+  margin-left:250px;
+}
+#sand{
+  margin-left:210px;
+}
+
+#soup{
+  margin-left:220px;
+}
+
+#chinese{
+  margin-left:120px;
+}
+#chaat{
+  margin-left:235px;
+}
+#dessert{
+  margin-left:240px;
+}
+#ice{
+  margin-left:190px;
+}
+#juice{
+  margin-left:220px;
+}
+#mocktail{
+  margin-left:210px;
+}
+#shake{
+  margin-left:210px;
+}
+ 
+ 
+ 
+

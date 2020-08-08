@@ -1,0 +1,136 @@
+#heading{
+
+    font-size:70px;
+    font-family: 'Pacifico', cursive;
+    color:white;
+    letter-spacing: 5px;
+    font-weight: normal;
+    line-height: 1px;
+    padding-top:2%;
+    text-align:center;
+    
+}
+
+#slogan{
+    font-size:30px;
+    color:white;
+    font-family: 'Pacifico', cursive;
+    text-align:center;
+}
+
+#front{
+   
+    background-size: cover;
+    /* height:5px; */
+    float:left;
+    width:100%;
+
+}
+
+
+body{
+    margin:0px;
+    background-image:url("https://www.feast-magazine.co.uk/wp-content/uploads/2019/01/restaurant-meal-food-salad-eat-dinner-berlin-supper-brunch-kurf-rstendamm-italians-abendbrot-1066618-1900x1267.jpg");
+    background-size: cover;
+}
+
+
+
+#explore {
+    border: 2px solid yellow;
+    background-color:transparent;
+    color: white;
+    padding: 14px 28px;
+    font-size: 25px;
+    cursor: pointer;
+    margin-top:8%;
+    margin-left: 42%;
+    outline:none;
+    border-radius:12px;
+    font-family: 'Pacifico', cursive;
+    text-align:center;
+    transition:all, 0.5s;
+
+
+  }
+  
+
+#explore:hover {
+    background-color:yellow;
+    color: black;
+  }
+
+  /* #footer{
+    height:700px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT63Lsci1UtMV4xKVKhceNoJ5wC8XDKinyNBwR-6eqby5Yo_R71");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    color:white;
+    margin:0;
+  } */
+
+  .topnav{
+      height:30px;
+      background:black;
+
+  }
+
+  .navbtn{
+    color:white;
+    border:none;
+    background:transparent;
+    height: 100%;
+    font-size: 20px;
+    font-family: 'lobster', cursive;
+    padding-right: 30px;
+    padding-left: 30px;
+    letter-spacing:2px;
+    outline: none;
+    transition:all, 0.5s;
+    
+
+  }
+
+  #selected{
+    color:black;
+    border:none;
+    background:yellow;
+    height: 100%;
+    font-size: 20px;
+    font-family: 'lobster', cursive;
+    padding-right: 30px;
+    padding-left: 30px;
+    letter-spacing:2px;
+    outline: none;
+  }
+
+  .navbtn:hover {
+    color: black;
+    background: yellow;
+
+  }
+
+  .fa {
+    text-decoration: none;
+    color:white;
+     height:100%;
+     padding:8px 15px 15px 0;
+     margin-right:10px;
+    
+  }
+
+  .navright{
+    float:right;
+    height:100%;
+
+  }
+  
+ 
+  .fa:hover {
+    color:yellow; 
+  }
+
+  #top-page{
+    height:10px;
+  }
